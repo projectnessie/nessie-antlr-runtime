@@ -27,7 +27,7 @@ plugins {
   `maven-publish`
   id("org.jetbrains.gradle.plugin.idea-ext") version "1.1.7"
   id("com.github.johnrengelman.shadow") version "7.1.2"
-  id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
+  id("io.github.gradle-nexus.publish-plugin") version "1.2.0"
 }
 
 val antlrVersion = "4.12.0"
